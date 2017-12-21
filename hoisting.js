@@ -13,8 +13,6 @@ function crazy() {
   };
   // fix the code in here:
   thisIsCrazy();
-
-  
 }
 
 function sayMyName() {
